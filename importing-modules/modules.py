@@ -6,11 +6,15 @@
 #sys is system functions and parameter
 #Example: print(sys.version)
 
-
+#Example 1
 import sys
 
 print(sys.version)
 
-import os
+#Example 2
+from datetime import datetime
+print(datetime.now())
 
-print(os)
+#Example 3
+from datetime import datetime as dt #import with alias
+print(dt.now())
