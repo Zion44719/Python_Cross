@@ -25,3 +25,7 @@ test_or = (7 > 5) or (5 < 7) #True
 test_or2 = (7 > 5) or (5 > 7) #True
 
 test_not = not True #False
+
+
+print("A" in "Apple")
+print("a" in "Apple")

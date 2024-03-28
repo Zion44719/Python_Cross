@@ -12,3 +12,15 @@ button {
   border: 2px solid;
   border-radius: 5px;
 }
+
+
+.pageCenter {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 10px;
+  border: 2px solid red;
+}
+
+.pageCenter p {
+  font-size: 1.5rem;
+}
